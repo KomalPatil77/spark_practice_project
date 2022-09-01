@@ -1,0 +1,5 @@
+1,Yash,Patil,29,M,011,20000
+2,Ram,Wagh,30,M,012,30000
+3,sita,Patil,29,F,011,50000
+4,Kiran,XYZ,33,F,011,40052
+5,Savita,Waghmare,35,F,012,800000
